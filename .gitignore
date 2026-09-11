@@ -1,0 +1,63 @@
+# =========================
+# Mac OS (İşletim Sistemi)
+# =========================
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# =========================
+# Visual Studio Code (Editör)
+# =========================
+.vscode/
+*.code-workspace
+.history/
+tempCodeRunnerFile.py
+
+# =========================
+# Python & Derlenmiş Dosyalar
+# =========================
+__pycache__/
+*.py[codz]
+*$py.class
+*.so
+
+# =========================
+# Sanal Ortamlar (Virtual Envs)
+# =========================
+.venv/
+venv/
+env/
+ENV/
+.env
+
+# =========================
+# Paketler ve Dağıtım
+# =========================
+build/
+dist/
+downloads/
+*.egg-info/
+.eggs/
+.installed.cfg
+*.egg
+
+# =========================
+# Test, Log ve Diğer Araçlar
+# =========================
+pip-log.txt
+pip-delete-this-directory.txt
+.pytest_cache/
+.coverage
+.tox/
+.nox/
+.ruff_cache/
+.mypy_cache/
+
+# =========================
+# Jupyter Notebook
+# =========================
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
